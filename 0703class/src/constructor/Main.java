@@ -22,6 +22,8 @@ public class Main {
 		
 		r = str.length();
 		System.out.println(r);
+		practice3.display();
+		System.out.println("작업을 더함");
 	}
 
 }
